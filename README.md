@@ -1,4 +1,4 @@
-# 📺 [XTREAM CODES API TEST](https://github.com/Jeremias0618)
+# 📺 [XTREAM CODES API TEST](https://jeremias0618.github.io/XTREAM-CODES-API-TEST)
 
 Aplicación web diseñada para interactuar directamente con servidores **Xtream Codes / XUI One**, permitiendo al usuario visualizar y reproducir contenido de **TV en vivo**, **Series**, **Películas (VOD)** y realizar búsquedas multimedia a través de la **API de TMDB**.
 
