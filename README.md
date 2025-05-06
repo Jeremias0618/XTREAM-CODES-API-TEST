@@ -11,7 +11,7 @@ Aplicación web diseñada para interactuar directamente con servidores **Xtream 
 ✅ Compatible con la API oficial de Xtream Codes (usando `player_api.php`)  
 ✅ Autenticación mediante IP/Dominio, Usuario y Clave  
 ✅ Guardado temporal de credenciales (caché local de 10 minutos)  
-✅ Navegación paginada y búsqueda dinámica por nombre  
+✅ Navegación paginada y búsqueda dinámica por **[Yeremi T](https://github.com/Jeremias0618)**   
 ✅ Reproductor personalizado:
 - 🎦 **JW Player** para `.mp4`
 - 🎞️ Reproductor nativo para `.m3u8`, `.mkv`, `.webm` 
